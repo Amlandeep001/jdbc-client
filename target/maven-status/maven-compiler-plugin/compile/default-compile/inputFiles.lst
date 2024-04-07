@@ -1,3 +1,6 @@
-C:\Workspaces\springboot\jdbc-client-example-main\src\main\java\com\javatechie\entity\Book.java
-C:\Workspaces\springboot\jdbc-client-example-main\src\main\java\com\javatechie\JdbcClientExampleApplication.java
-C:\Workspaces\springboot\jdbc-client-example-main\src\main\java\com\javatechie\controller\BookController.java
+C:\GitHub\jdbc-client\src\main\java\com\javatechie\JdbcClientExampleApplication.java
+C:\GitHub\jdbc-client\src\main\java\com\javatechie\config\QueryConfig.java
+C:\GitHub\jdbc-client\src\main\java\com\javatechie\service\BookServiceImpl.java
+C:\GitHub\jdbc-client\src\main\java\com\javatechie\service\BookService.java
+C:\GitHub\jdbc-client\src\main\java\com\javatechie\entity\Book.java
+C:\GitHub\jdbc-client\src\main\java\com\javatechie\controller\BookController.java

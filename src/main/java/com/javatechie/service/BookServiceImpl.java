@@ -4,10 +4,12 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.jdbc.core.simple.JdbcClient;
+import org.springframework.stereotype.Service;
 
 import com.javatechie.config.QueryConfig;
 import com.javatechie.entity.Book;
 
+@Service
 public class BookServiceImpl implements BookService
 {
 	private final JdbcClient jdbcClient;

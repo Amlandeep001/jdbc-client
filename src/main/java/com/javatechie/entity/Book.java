@@ -1,15 +1,18 @@
 package com.javatechie.entity;
 
+import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import lombok.experimental.FieldDefaults;
 
 @Data
+@FieldDefaults(level = AccessLevel.PRIVATE)
 @AllArgsConstructor
 @NoArgsConstructor
-public class Book {
-
-    private int id;
-    private String name;
-    private String title;
+public class Book
+{
+	int id;
+	String name;
+	String title;
 }
