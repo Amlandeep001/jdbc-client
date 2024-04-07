@@ -1,4 +1,4 @@
-package com.javatechie.config;
+package com.example.jdbcclient.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

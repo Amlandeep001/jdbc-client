@@ -1,4 +1,4 @@
-package com.javatechie.entity;
+package com.example.jdbcclient.entity;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

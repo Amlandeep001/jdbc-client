@@ -1,4 +1,4 @@
-package com.javatechie.service;
+package com.example.jdbcclient.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Service;
 
-import com.javatechie.config.QueryConfig;
-import com.javatechie.entity.Book;
+import com.example.jdbcclient.config.QueryConfig;
+import com.example.jdbcclient.entity.Book;
 
 @Service
 public class BookServiceImpl implements BookService

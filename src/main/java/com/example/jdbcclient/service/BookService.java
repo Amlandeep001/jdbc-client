@@ -1,9 +1,9 @@
-package com.javatechie.service;
+package com.example.jdbcclient.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.javatechie.entity.Book;
+import com.example.jdbcclient.entity.Book;
 
 public interface BookService
 {

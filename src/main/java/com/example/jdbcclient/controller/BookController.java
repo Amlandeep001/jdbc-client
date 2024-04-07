@@ -1,4 +1,4 @@
-package com.javatechie.controller;
+package com.example.jdbcclient.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.javatechie.entity.Book;
-import com.javatechie.service.BookService;
+import com.example.jdbcclient.entity.Book;
+import com.example.jdbcclient.service.BookService;
 
 @RestController
 @RequestMapping("/books")

@@ -2,35 +2,35 @@
   "groups": [
     {
       "name": "query",
-      "type": "com.javatechie.config.QueryConfig",
-      "sourceType": "com.javatechie.config.QueryConfig"
+      "type": "com.example.jdbcclient.config.QueryConfig",
+      "sourceType": "com.example.jdbcclient.config.QueryConfig"
     }
   ],
   "properties": [
     {
       "name": "query.delete",
       "type": "java.lang.String",
-      "sourceType": "com.javatechie.config.QueryConfig"
+      "sourceType": "com.example.jdbcclient.config.QueryConfig"
     },
     {
       "name": "query.insert",
       "type": "java.lang.String",
-      "sourceType": "com.javatechie.config.QueryConfig"
+      "sourceType": "com.example.jdbcclient.config.QueryConfig"
     },
     {
       "name": "query.select",
       "type": "java.lang.String",
-      "sourceType": "com.javatechie.config.QueryConfig"
+      "sourceType": "com.example.jdbcclient.config.QueryConfig"
     },
     {
       "name": "query.sleect-by-id",
       "type": "java.lang.String",
-      "sourceType": "com.javatechie.config.QueryConfig"
+      "sourceType": "com.example.jdbcclient.config.QueryConfig"
     },
     {
       "name": "query.update",
       "type": "java.lang.String",
-      "sourceType": "com.javatechie.config.QueryConfig"
+      "sourceType": "com.example.jdbcclient.config.QueryConfig"
     }
   ],
   "hints": []

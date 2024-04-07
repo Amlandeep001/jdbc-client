@@ -1,6 +1,6 @@
-C:\GitHub\jdbc-client\src\main\java\com\javatechie\JdbcClientExampleApplication.java
-C:\GitHub\jdbc-client\src\main\java\com\javatechie\config\QueryConfig.java
-C:\GitHub\jdbc-client\src\main\java\com\javatechie\service\BookServiceImpl.java
-C:\GitHub\jdbc-client\src\main\java\com\javatechie\service\BookService.java
-C:\GitHub\jdbc-client\src\main\java\com\javatechie\entity\Book.java
-C:\GitHub\jdbc-client\src\main\java\com\javatechie\controller\BookController.java
+C:\GitHub\jdbc-client\src\main\java\com\example\jdbcclient\JdbcClientExampleApplication.java
+C:\GitHub\jdbc-client\src\main\java\com\example\jdbcclient\service\BookService.java
+C:\GitHub\jdbc-client\src\main\java\com\example\jdbcclient\controller\BookController.java
+C:\GitHub\jdbc-client\src\main\java\com\example\jdbcclient\config\QueryConfig.java
+C:\GitHub\jdbc-client\src\main\java\com\example\jdbcclient\entity\Book.java
+C:\GitHub\jdbc-client\src\main\java\com\example\jdbcclient\service\BookServiceImpl.java
