@@ -40,7 +40,7 @@ public class BookServiceImpl implements BookService
 	@Override
 	public Optional<Book> findById(int id)
 	{
-		return jdbcClient.sql(queryConfig.getSleectById())
+		return jdbcClient.sql(queryConfig.getSelectById())
 				.param("id", id)
 				.query(Book.class)
 				.optional();

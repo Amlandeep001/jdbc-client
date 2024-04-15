@@ -23,7 +23,7 @@
       "sourceType": "com.example.jdbcclient.config.QueryConfig"
     },
     {
-      "name": "query.sleect-by-id",
+      "name": "query.select-by-id",
       "type": "java.lang.String",
       "sourceType": "com.example.jdbcclient.config.QueryConfig"
     },

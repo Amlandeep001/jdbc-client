@@ -8,7 +8,7 @@ public class QueryConfig
 {
 	String insert;
 	String select;
-	String sleectById;
+	String selectById;
 	String update;
 	String delete;
 }
