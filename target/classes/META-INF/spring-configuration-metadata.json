@@ -33,5 +33,8 @@
       "sourceType": "com.example.jdbcclient.config.QueryConfig"
     }
   ],
-  "hints": []
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
 }
